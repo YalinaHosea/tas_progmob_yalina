@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editnama" type="id">nama</item>
+    <item name="editnidn" type="id">nidn</item>
+    <item name="editgelar" type="id">gelar</item>
+    <item name="editalamat" type="id">almt</item>
+    <item name="buttonsavedosen" type="id">savedosen</item>
+    <item name="editnim" type="id">nim</item>
+    <item name="editEmail" type="id">email</item>
+    <item name="buttonsaveMhs" type="id">savemhs</item>
+    <item name="textviewHARI1" type="id">HR1</item>
+</resources>
